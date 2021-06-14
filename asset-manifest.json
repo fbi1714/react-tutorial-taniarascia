@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-tutorial-taniarascia/static/js/main.f91e297e.chunk.js",
+    "main.js.map": "/react-tutorial-taniarascia/static/js/main.f91e297e.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-taniarascia/static/js/runtime-main.125f168a.js",
+    "runtime-main.js.map": "/react-tutorial-taniarascia/static/js/runtime-main.125f168a.js.map",
+    "static/js/2.1f7434b2.chunk.js": "/react-tutorial-taniarascia/static/js/2.1f7434b2.chunk.js",
+    "static/js/2.1f7434b2.chunk.js.map": "/react-tutorial-taniarascia/static/js/2.1f7434b2.chunk.js.map",
+    "index.html": "/react-tutorial-taniarascia/index.html",
+    "static/js/2.1f7434b2.chunk.js.LICENSE.txt": "/react-tutorial-taniarascia/static/js/2.1f7434b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125f168a.js",
+    "static/js/2.1f7434b2.chunk.js",
+    "static/js/main.f91e297e.chunk.js"
+  ]
+}
